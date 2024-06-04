@@ -1,4 +1,4 @@
-# temperature-converter Web App
+# Temperature-converter Web App
 Welcome to the Temperature Converter Web App! This interactive web application provides a convenient solution for converting tempertures between Celsius, Fahrenheit, and Kelvin units.
 
 # Flies included :
