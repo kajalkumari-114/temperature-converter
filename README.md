@@ -1,7 +1,7 @@
 # temperature-converter Web App
 Welcome to the Temperature Converter Web App! This interactive web application provides a convenient solution for converting tempertures between Celsius, Fahrenheit, and Kelvin units.
 
-#Flies included :
+# Flies included :
 
 * index.html: HTML file containing thr structure  of the web page.
 
@@ -9,13 +9,13 @@ Welcome to the Temperature Converter Web App! This interactive web application p
 
 * main.js: JavaScript containing the logic for temperature conversion.
 
-#Features :
+# Features :
 
 1. Conversion between Celsius, Fahrenheit, and Kelvin.
 2. User-friendly interface.
 3. Real-time conversion as users input values.
 
-#Usage :
+# Usage :
 
 To use the temperature converter:
 1. Open index.html in a web browser.
@@ -23,9 +23,9 @@ To use the temperature converter:
 3. Select the unit of the input temperature (Celsius,Fahrenheit, or Kelvin).
 4. Select the unit to which you want to convert the temperature.
 
-#Technologies Used :
+# Technologies Used :
 * HTML
 * CSS
 * JavaScript
 
-#THANK YOU!!
+# THANK YOU!!
